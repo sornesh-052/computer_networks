@@ -23,7 +23,7 @@ int main(){
 		j++;
 		
 	}
-	stuffedData[j]='\0';
+	
 	printf("orignal data %s",data);
 	printf("\nafter the bit stuffing:%s",stuffedData);
 	return 0;
